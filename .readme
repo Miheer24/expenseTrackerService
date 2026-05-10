@@ -1,0 +1,11 @@
+About this service:
+Stores the expenses in DB (Mongo)
+Provides pie chart representation of the expenses and let's the user know about the variety of expenses in different categories.
+
+APIs:
+Authentication
+1. /register
+2. /login
+expenses:
+1. /all
+2. 
